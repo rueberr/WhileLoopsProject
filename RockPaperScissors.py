@@ -1,5 +1,5 @@
 #Rock Paper Scissors
-#By Ryan Rueber
+#Created by Ryan Rueber
 
 
 #import statements
